@@ -1,9 +1,9 @@
-# Flexbox CSS
+# flexbox-utils
 
 ## Install
 
 ```
-npm i --save
+npm i --save flexbox-utils
 ```
 
 ## Usage
@@ -11,5 +11,5 @@ npm i --save
 - Import it.
 
 ```
-@import "flexbox.css/flexbox.scss";
+@import "flexbox-utils/index.scss";
 ```

@@ -1,16 +1,16 @@
 {
-  "name": "flex-utils",
+  "name": "flexbox-utils",
   "version": "1.0.0",
   "description": "A flexbox utility library",
   "author": "Justin Mather",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsjustmath/flexbox.css.git"
+    "url": "git+https://github.com/itsjustmath/flexbox-utils.git"
   },
-  "homepage": "https://github.com/itsjustmath/flexbox.css#readme",
+  "homepage": "https://github.com/itsjustmath/flexbox-utils#readme",
   "bugs": {
-    "url": "https://github.com/itsjustmath/flexbox.css/issues"
+    "url": "https://github.com/itsjustmath/flexbox-utils/issues"
   },
   "devDependencies": {
     "node-sass": "^4.5.2"
