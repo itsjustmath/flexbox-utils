@@ -17,6 +17,8 @@
     "node-sass": "^4.5.2"
   },
   "scripts": {
+    "build": "node-sass lib/ -o build/",
+    "start": "npm run build && node-sass lib/ -o build/ --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
