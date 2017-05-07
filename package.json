@@ -1,10 +1,9 @@
 {
-  "name": "flexbox.css",
+  "name": "flex-utils",
   "version": "1.0.0",
   "description": "A flexbox utility library",
   "author": "Justin Mather",
-  "license": "ISC",
-  "main": "index.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itsjustmath/flexbox.css.git"
